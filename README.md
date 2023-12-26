@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lokanatham Latesh</h1>
 <h3 align="center">A passionate in frontend development using React And Backend Developer using Spring Boot</h3>
 
-- 🔭 I’m currently working on [AI GIFT SHOP](https://main--euphonious-babka-30998b.netlify.app/)
+- 🔭 I’m currently Intern at Prodigy Info Tech](https://main--euphonious-babka-30998b.netlify.app/)
 
 - 🌱 I’m currently learning **Fullstack Development Using JAVA,**
 
