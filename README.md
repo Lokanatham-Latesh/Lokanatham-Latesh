@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lokanathamlatesh@gmail.com**
 
-- 📄 Know about my experiences [[[https://drive.google.com/file/d/1tKACHLKSh1K1p2ledfqFPiS1WajjfnIA/view?usp=drivesdk=true](https://drive.google.com/file/d/1i4pePZ1FFirQk7GFrChXI1WgqJQKt4y_/view?usp=drive_link)]
+- 📄 Know about my experiences [[[https://drive.google.com/file/d/1i4pePZ1FFirQk7GFrChXI1WgqJQKt4y_/view?usp=drive_link](https://drive.google.com/file/d/1i4pePZ1FFirQk7GFrChXI1WgqJQKt4y_/view?usp=drive_link)]
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
